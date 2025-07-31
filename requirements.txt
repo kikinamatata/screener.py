@@ -6,7 +6,7 @@ langchain-core
 langchain-community
 
 # LangChain Integrations
-langchain-pinecone
+langchain-chroma
 langchain-google-genai
 
 # Web Framework
