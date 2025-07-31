@@ -25,3 +25,5 @@ requests
 # Vector Database - Pinecone (cloud-based)
 pinecone-client
 bs4
+
+pysqlite3-binary
