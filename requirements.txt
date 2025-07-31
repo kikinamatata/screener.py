@@ -1,27 +1,33 @@
 # Core LangGraph and LLM Framework
-langgraph
-langgraph-sdk
-langchain
-langchain-core
-langchain-community
+langgraph==0.6.1
+langgraph-sdk==0.2.0
+langchain==0.3.26
+langchain-core==0.3.53
+langchain-community==0.3.49
 
 # LangChain Integrations
-langchain-chroma
-langchain-google-genai
+langchain-chroma==0.1.7
+langchain-google-genai==2.0.8
 
 # Web Framework
-streamlit
+streamlit==1.40.1
 
 # Data Processing and Validation
-pydantic
-python-dotenv
-typing-extensions
+pydantic==2.10.5
+python-dotenv==1.0.1
+typing-extensions==4.12.2
 
 # Web Scraping and Browser Automation
-zendriver
-aiohttp
-requests
+zendriver==0.1.25
+aiohttp==3.11.10
+requests==2.32.3
 
 # Vector Database
-chromadb<0.5.0
-bs4
+chromadb==0.4.24
+beautifulsoup4==4.12.3
+
+# HTTP and Async Support
+httpx==0.28.1
+
+# Google AI
+google-generativeai==0.8.3
