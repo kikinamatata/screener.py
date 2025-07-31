@@ -23,5 +23,5 @@ aiohttp
 requests
 
 # Vector Database
-chromadb
+chromadb<0.5.0
 bs4
