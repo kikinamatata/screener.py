@@ -162,3 +162,18 @@ cython_debug/
 #.idea/
 uv.lock
 .langgraph_api/
+
+# ChromaDB database files
+chroma_db/
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+src/utils/data/chroma_db/
+**/chroma_db/
+*.chroma
+.chromadb/
+
+# Vector store and embeddings cache
+embeddings_cache/
+vector_cache/
+.vector_store/
