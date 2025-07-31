@@ -24,3 +24,4 @@ requests
 
 # Vector Database
 chromadb
+bs4
